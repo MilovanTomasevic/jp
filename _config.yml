@@ -17,22 +17,43 @@ url:                   https://JaponskaMasaza.si
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  bs-BA
+lang:                 si
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 Japonska masaža
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:           >
-   Japonska masaža na 070 168 701 ! Posvećeni smo pružanju vrhunskih usluga dubinskog pranja i detaljnog čišćenja na teritoriji Bosne i Hercegovine, sa naglaskom na gradove Prijedor, Banja Luka, Sanski Most i Novi Grad.
+description: >
+  Japonska masaža v Ljubljani – pokličite 070 168 701. Nudimo sproščujoče, terapevtske masaže z uporabo tradicionalnih japonskih tehnik. Vaš trenutek ravnotežja, miru in dobrega počutja.
 
 # A shorter description for the sidebar.
 tagline:               > 
   *Ljubljana*
 
 # A list of keywords for your blog
-keywords:              [Japonska masaža BiH, Prijedor dubinsko čišćenje, Banja Luka čišćenje vozila, Sanski Most profesionalno pranje automobila, Novi Grad dubinsko čišćenje i detalji, AutoJaponska masaža BiH, Profesionalno čišćenje vozila, Detaljno pranje i čišćenje automobila BiH, Najbolje usluge dubinskog pranja Prijedor, Ekološko pranje vozila, Praonica automobila Banjaluka, Sjaj vozila Sanski Most, Čišćenje enterijera vozila BiH, Novi Grad auto detalji, Mobilno Japonska masaža vozila, Brzo čišćenje automobila]
+keywords: [
+  japonska masaža Ljubljana,
+  tradicionalna japonska masaža,
+  shiatsu masaža Ljubljana,
+  sproščujoča masaža center Ljubljana,
+  terapevtska masaža hrbta,
+  masaža vratu in ramen,
+  masaža obraza in stopal,
+  japonska tehnika masaže,
+  masaža meridianov,
+  naravna sprostitev Ljubljana,
+  najboljša masaža v Ljubljani,
+  masaža za odpravo stresa,
+  masaža proti napetosti,
+  osebna masaža Ljubljana,
+  ambientna masaža z Japonske,
+  darilni bon za masažo,
+  masaža Ljubljana center,
+  masaža z osebnim pristopom,
+  masaža z izkušnjeno Japonko,
+  mir in ravnotežje skozi masažo
+]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
