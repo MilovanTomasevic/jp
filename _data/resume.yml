@@ -1,0 +1,82 @@
+basics:
+  name: "Japonska masaža"
+  label: "Tradicionalna japonska masaža v Ljubljani – pokličite 070 168 701"
+  picture: "/assets/img/logo.png"
+  email: "JaponskaMasaza@gmail.com"
+  phone: "+38670168701"
+  website: "https://JaponskaMasaza.si"
+  summary: >
+    Japonska masaža temelji se na tradicionalnih tehnikah, ki združujejo telesno sprostitev in duševno ravnovesje. Z več kot 10-letnimi izkušnjami in poreklom z Japonske, nudim pristno izkušnjo, ki vas popelje v svet notranjega miru. Masaže izvajam v prijetnem ambientu v središču Ljubljane. Pokličite za termin.
+
+  location:
+    address: "Nove Jarše - BTC"
+    postalCode: "1000"
+    city: "Ljubljana"
+    countryCode: "SI"
+    region: "Republika Slovenija"
+
+  profiles:
+    - network: "Instagram"
+      username: "JaponskaMasaza"
+      url: "https://www.instagram.com/JaponskaMasaza/"
+    - network: "Facebook"
+      username: "JaponskaMasaza.si"
+      url: "https://www.facebook.com/JaponskaMasaza.si"
+    - network: "YouTube"
+      username: "JaponskaMasaza"
+      url: "https://www.youtube.com/@JaponskaMasaza"
+
+skills:
+  - name: "Tradicionalne masažne tehnike"
+    level: "Expert"
+    keywords:
+      - "Shiatsu masaža"
+      - "Anma terapija"
+      - "Masaža stopal"
+      - "Masaža obraza"
+
+  - name: "Dobrobit in ravnovesje"
+    level: "Expert"
+    keywords:
+      - "Sprostitev telesa in duha"
+      - "Lajšanje napetosti"
+      - "Obnovitev energije"
+      - "Stimulacija meridianov"
+
+  - name: "Individualni pristop"
+    level: "Expert"
+    keywords:
+      - "Prilagojene masaže"
+      - "Mirno in varno okolje"
+      - "Stik, ki zdravi"
+      - "Osebna pozornost"
+
+languages:
+  - language: "Slovenščina"
+    fluency: "elementary-proficiency"
+  - language: "Angleščina"
+    fluency: "full-professional-proficiency"
+  - language: "Japonščina"
+    fluency: "Native speaker"
+
+references:
+  - name: "Maja"
+    reference: >
+      Po masaži sem se počutila, kot da lebdim. Prava umetnost dotika. Masažna izkušnja, ki jo toplo priporočam.
+
+  - name: "Peter"
+    reference: >
+      Ena izmed najbolj avtentičnih masažnih izkušenj, kar sem jih imel zunaj Japonske. Pomirjujoče in profesionalno.
+
+  - name: "Nina"
+    reference: >
+      Zelo miren ambient, čutna masaža in čudovita energija maserke. Definitivno se bom vračala.
+
+  - name: "Tomaž"
+    reference: >
+      Masaža je bila prilagojena mojim težavam z vratom in hrbtom. Učinek je bil občuten že po prvem obisku.
+
+  - name: "Lucija"
+    reference: >
+      Topla priporočila! Prava izkušnja tradicionalne japonske masaže v Ljubljani, brez nepotrebnega kiča – čista pristnost.
+
